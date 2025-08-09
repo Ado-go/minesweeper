@@ -1,9 +1,9 @@
-# minesweeper
+# Minesweeper
 
-Minesweeper game. Mark all mines with flags and reveal all safe squares to win.
+Minesweeper game: mark all mines with flags and reveal all safe squares to win.
 
-# controls
+# Controls
 
-Left click - reveal square<br/>
-Right click - toggle flag<br/>
-R - restart <br/>
+- Left click – reveal square  
+- Right click – toggle flag  
+- R – restart  
